@@ -1,2 +1,11 @@
 # Python-assignment
-Weekly assignments of course _Python Programming_.
+
+这是北京邮电大学计算机科学与技术专业 2021 级大三上（2023–2024 学年度秋季学期）《Python 程序设计》课程小作业。注意：这门课每个老师布置的小作业不同。
+
+小孩子不懂事写着玩的。
+
+所有代码和报告都在 `all/` 目录下。文件结构和原始提交的毫无关系，所以和报告对不上。
+
+第二次报告的英文字体用了 Linux Libertine，忘了换成 Times New Roman 了。
+
+后 4 次的作业都是围绕一个提供的文件 graph.txt 进行的。皮皮一直惦记着他那 b async 所以要求用的第三方库奇奇怪怪的。
